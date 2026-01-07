@@ -72,7 +72,7 @@ FoodieExpress/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/FoodieExpress.git
+git clone https://github.com/Git-punit/FoodieExpress--AI-Powered-Food-Delivery-Platform
 cd FoodieExpress
 ```
 
